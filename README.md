@@ -1,3 +1,3 @@
 # psben2.github.io
 
-![](CV.pdf)
+![CV](CV.pdf)
