@@ -1,3 +1,4 @@
-# psben2.github.io
+# CV of Salih Bahadır Uçar
 
 ![CV](CV-1.png)
+![CV](CV-2.png)
